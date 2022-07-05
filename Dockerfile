@@ -1,4 +1,4 @@
-FROM python:slim-buster
+FROM python # :slim-buster
 RUN apt-get update
 RUN apt-get install g++ tk -y
 RUN mkdir /app
