@@ -7,7 +7,7 @@ dfir-unfurl==20200812
 dnspython==1.16.0
 idna==2.8
 ipwhois==1.1.0
-pycparser==2.19
+pycparser==2.21
 pyOpenSSL==19.0.0
 PySocks==1.7.0
 pywin32==301; sys_platform == 'win32'
