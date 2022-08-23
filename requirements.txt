@@ -3,7 +3,7 @@ certifi==2019.6.16
 cffi==1.14.5
 chardet==3.0.4
 cryptography==3.3.2
-dfir-unfurl==20200812
+dfir-unfurl==20220200
 dnspython==1.16.0
 idna==2.8
 ipwhois==1.1.0
